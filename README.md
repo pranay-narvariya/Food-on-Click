@@ -1,1 +1,2 @@
 # food_on_click
+Food on click system serves to improve restaurant service and management by maintaining all the restaurant information, accept food order from the Web application and serving the customer the faster. The Web application of the project allows walk-in customers to place their food order without the need of waiter. They can order food via the Web application by scanning the QR-Code on each table. Some other functions of the mobile application include online bill generation and a payment gateway.
